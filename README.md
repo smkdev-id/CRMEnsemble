@@ -1,1 +1,1 @@
-# CRM Performer - Django 
+# CRM Performer - Django Framework
