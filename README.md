@@ -1,1 +1,1 @@
-# fastapi_ml_template
+# CRM Performer - Django 
