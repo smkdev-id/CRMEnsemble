@@ -1,1 +1,1 @@
-# CRM Performer - Django Framework
+# CRM Performer Project Showcase - Django Framework
